@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="203.0" prefWidth="792.0" style="-fx-background-color: #91abeb#91abeb;" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <Button fx:id="cBtn" layoutX="14.0" layoutY="23.0" mnemonicParsing="false" prefHeight="169.0" prefWidth="61.0" style="-fx-background-color: white;" text="C" />
+      <Button fx:id="dBtn" layoutX="88.0" layoutY="23.0" mnemonicParsing="false" prefHeight="169.0" prefWidth="61.0" style="-fx-background-color: Black;" text="D" textFill="WHITE" />
+      <Button fx:id="eBtn" layoutX="163.0" layoutY="23.0" mnemonicParsing="false" prefHeight="169.0" prefWidth="61.0" style="-fx-background-color: white;" text="E" />
+      <Button fx:id="fBtn" layoutX="243.0" layoutY="23.0" mnemonicParsing="false" prefHeight="169.0" prefWidth="61.0" style="-fx-background-color: black;" text="F" textFill="WHITE" />
+      <Button fx:id="gBtn" layoutX="322.0" layoutY="23.0" mnemonicParsing="false" prefHeight="169.0" prefWidth="61.0" style="-fx-background-color: white;" text="G" />
+      <Button fx:id="aBtn" layoutX="404.0" layoutY="23.0" mnemonicParsing="false" prefHeight="169.0" prefWidth="61.0" style="-fx-background-color: black;" text="A" textFill="WHITE" />
+      <Button fx:id="bBtn" layoutX="484.0" layoutY="23.0" mnemonicParsing="false" prefHeight="169.0" prefWidth="61.0" style="-fx-background-color: white;" text="B" />
+      <Button fx:id="cBtnS" layoutX="561.0" layoutY="23.0" mnemonicParsing="false" prefHeight="169.0" prefWidth="61.0" style="-fx-background-color: black;" text="C" textFill="WHITE" />
+      <Button fx:id="dBtnS" layoutX="641.0" layoutY="23.0" mnemonicParsing="false" prefHeight="169.0" prefWidth="61.0" style="-fx-background-color: white;" text="D" />
+      <Button fx:id="eBtnS" layoutX="717.0" layoutY="23.0" mnemonicParsing="false" prefHeight="169.0" prefWidth="61.0" style="-fx-background-color: black;" text="E" textFill="#fffafa" />
+   </children>
+</AnchorPane>
